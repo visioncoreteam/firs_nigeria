@@ -62,7 +62,7 @@ You will notice a new extension button displayed at the bottom of the document v
 
 ## 🎬 Video Demonstration
 
-> 🔗[![FIRS Integration Demo]](https://youtu.be/d1yWcGHGwm0)
+> 🔗[![FIRS Integration Demo]](https://youtu.be/4_TbUFFCrTM)
 
 ---
 
