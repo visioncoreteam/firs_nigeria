@@ -71,8 +71,8 @@ You will notice a new extension button displayed at the bottom of the document v
 | Role                | Contact                          |
 |---------------------|----------------------------------|
 | **Consultant**      | AI & Co Accountants — `+2348035674941` |
-| **Technical Support**| WhatsApp: `+94758384141`        |
+| **Technical Support**| VisionCore Technologies : `+94758384141`        |
 
 ---
 
-*Powered by [FIRS GO!](https://firs.visioncorego.com) — Nigeria E-Invoice System*
+*Powered by [VisionCore!](https://firs.visioncorego.com) — Nigeria E-Invoice System*
